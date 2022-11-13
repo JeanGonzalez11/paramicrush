@@ -1,0 +1,27 @@
+button:hover {
+    cursor: pointer;
+}
+
+h1, h2 {
+    color: blueviolet;
+}
+
+.modo_sexo {
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: red;
+    z-index: 1000;
+}
+
+#btn_si {
+    background-color: beige;
+    border-color: cadetblue;
+    color: black;
+    font-size: xx-large;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 200px;
+}
